@@ -74,8 +74,8 @@
                 <a href="index.jsp">Home</a>
                 <a href="becomeDonor.jsp">Become a Donor</a>
                 <a href="requestBlood.jsp">Request a Blood</a>
-                <a href="about.jsp">About Us</a>
-                <a href="contact.jsp">Contact Us</a>
+                <a href="jsp/about.jsp">About Us</a>
+                <a href="jsp/contact.jsp">Contact Us</a>
             </div>
             <div class="nav-right">
                 <a href="donorLogin.jsp">Donor Login</a>
